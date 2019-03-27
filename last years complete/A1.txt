@@ -1,0 +1,5 @@
+Pbha310 6691164
+This assignment took me 10 hours to complete 
+The area which I found easy was constructing the oval and rectangle class. 
+The areas which I found hard was the moving checker. I didn't know how to create a moving checking board before
+The GUI part this helped me understand it more in depth. Also array lists 
